@@ -1,7 +1,7 @@
 # Image-Related
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/houseme/imagerelated.svg)](https://pkg.go.dev/github.com/houseme/imagerelated)
-[![Image-Related-CI](https://github.com/houseme/imagerelated/actions/workflows/go.yml/badge.svg)](https://github.com/houseme/imagerelated/actions/workflows/go.yml)
+[![Action-CI](https://github.com/houseme/imagerelated/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/houseme/imagerelated/actions/workflows/go.yml)
 ![GitHub](https://img.shields.io/github/license/houseme/imagerelated?style=flat-square)
 ![GitHub go.mod Go version (branch)](https://img.shields.io/github/go-mod/go-version/houseme/imagerelated/main?style=flat-square)
 
